@@ -1,4 +1,4 @@
-
+//Method 1
 import java.util.Scanner;
 import java.util.Arrays;
   class demo
@@ -18,3 +18,5 @@ import java.util.Arrays;
         
       }
     }
+//Method 2
+
