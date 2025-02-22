@@ -12,7 +12,7 @@ class ArraySumUserInput
         }
 
         // Calculate sum of array elements
-        int sum = 0;
+        int sum =0;
         for (int num : numbers) {
             sum += num; //calculate the sum of arr
         }
