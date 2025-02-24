@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class RemoveNonAlphanumericManual {
+class RemoveNonAlphanumericManual {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
