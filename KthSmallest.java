@@ -27,6 +27,6 @@ class KthSmallest
           k--;
         }
       System.out.println("Kth Smallest:"+ans);
-      sc.close();
+      
     }
   }
