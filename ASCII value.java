@@ -9,7 +9,7 @@ public class ASCIIValue {
         int ascii = (int) ch; // Display ASCII value
         System.out.println("ASCII value of '" + ch + "' is: " + ascii);
 
-        s.close();
+        
     }
 }
   
