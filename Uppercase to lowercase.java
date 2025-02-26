@@ -1,3 +1,4 @@
+//using optimal approach
 import java.util.Scanner;
 class A
   {
@@ -25,3 +26,4 @@ class A
  
     }
 }
+
