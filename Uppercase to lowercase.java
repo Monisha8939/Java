@@ -26,4 +26,17 @@ class A
  
     }
 }
+//using built-in function
+import java.util.Scanner;
+class A
+  {
+    public static void main(String args[])
+    {
+      Scanner s=new Scanner(System.in);
+      String Str=s.nextLine();
+      String lowercase=str.toLowerCase();
+      System.out.println(str);
+    }
+  }
+  
 
