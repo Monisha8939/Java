@@ -16,7 +16,7 @@ public class copyarray {
 		{
 			b[j]=a[i];
 			j++;
-		}
+}
 		System.out.println(Arrays.toString(b)); // Print the copied array
 		
   }
