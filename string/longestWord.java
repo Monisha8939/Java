@@ -10,7 +10,7 @@ class A{
     for(String s2:s1)
     {
       int l=s2.length();
-      if(s2>maxvalue)   // Check if this word is longer than the current longest
+      if(l>maxvalue)   // Check if this word is longer than the current longest
       {
         longestword=s2; // Update longest word
         maxvalue=l;  // Update max length
