@@ -5,7 +5,7 @@ public static void main(String args[]) {
 		int n=s.nextInt();
 		int count=0;
 		int i=1;
-		while(i*i<n) //check if i*i is less than n or not 
+		while(i*i<n) //check if i*i is less than n or not
       {
 			count++; // If it's a square number, increase the count
 			i++; //Increment the i value
