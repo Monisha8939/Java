@@ -7,10 +7,10 @@ public class first_n_Fibonacci {
 	    int[] result=new int[n];
 	    int a=0,b=1;
 		for(int i=0;i<n;i++) {
-			result[i]=a;
-			int next=a+b;
-			a=b;
-			b=next;
+			result[i]=a;  // Store the current Fibonacci number in result[i]
+			int next=a+b;  // Calculate the next Fibonacci number
+			a=b; // Shift: a becomes b
+			b=next;    // Shift: b becomes next
 		}
 		System.out.println(Arrays.toString(result));
 		}
