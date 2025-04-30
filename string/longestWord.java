@@ -8,7 +8,7 @@ class A{
     String longestword=" ";
     int maxvalue=0;
     for(String s2:s1)
-    {
+      {
       int l=s2.length();
       if(l>maxvalue)   // Check if this word is longer than the current longest
       {
