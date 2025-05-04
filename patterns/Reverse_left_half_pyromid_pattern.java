@@ -1,18 +1,12 @@
 import java.util.Scanner;
-class A
-{
-public static void main(String args[])
-  {
-	Scanner s=new Scanner(System.in);
-  int n=s.nextInt();
-		for(int i=1;i<=n;i++) //Outer loop
-      {
-			for(int k=1;k<=i;k++) 
-      {
+class A {
+	public static void main(String args[]) {
+		int n=5;
+		for(int i=1;i<=n;i++) {
+			for(int k=1;k<=i;k++) {
 				System.out.print(" ");
 			}
-			for(int j=i;j<=n;j++)
-        {
+			for(int j=i;j<=n;j++) {
 				System.out.print("*");
 			}
 			System.out.println();
@@ -20,3 +14,7 @@ public static void main(String args[])
 	}
 
 }
+
+
+	
+	
