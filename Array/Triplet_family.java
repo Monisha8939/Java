@@ -3,11 +3,11 @@ import java.util.Arrays;
 class A{
   public static boolean triple(int[] arr) {
 		int n=arr.length;
-		for(int k=n-1;k>=2;k--) {
+		for(int k=n-1;k>=2;k--) { 
 			int i=0,j=k-1;
-			while(i<j) {
+			while(i<j) { 
 				int sum=arr[i]+arr[j];
-				if(sum==arr[k]) {
+				if(sum==arr[k]) { 
 					return true;
 				}
 				else if(sum<arr[k]) {
