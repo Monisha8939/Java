@@ -13,7 +13,7 @@ public class ClosestNumber {
     
    // Find how far lower and upper are from n
 		int difflower=Math.abs(n-lower);
-		int diffupper=Math.abs(n-upper); 
+		int diffupper=Math.abs(n-upper);
 		if(difflower<diffupper) {  // Return the number that is closer to n
 			return lower;
 		}
