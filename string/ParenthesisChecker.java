@@ -7,7 +7,7 @@ class ParenthesisChecker
       String s=sc.nextLine();
       System.out.println(isBalanced(s));
     }
-    public static boolean isBalanced(String s)
+    public static boolean isBalanced(String s) 
     {
       Stack<Character> stack=new Stack<>();
       for(char c:s.toCharArray())
