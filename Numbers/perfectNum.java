@@ -10,7 +10,7 @@ class Perfectnumber {
         { 
             if (n % i == 0) // Check if 'i' is a divisor of 'n'
             {
-                sum += i; // Add the divisor to the sum
+                sum += i; // Add the divisor to the sum 
             }
         }
 
