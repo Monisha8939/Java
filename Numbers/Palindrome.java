@@ -9,7 +9,7 @@ class palindrome
       int ans=0;
       while(n!=0)
         {
-          int l=n%10; // Get the last digit
+          int l=n%10; // Get the last digit 
           ans=ans*10+l;  //calculated the number
           n=n/10; // Remove the last digit
         }
