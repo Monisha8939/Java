@@ -7,7 +7,7 @@ class A
       Scanner s=new Scanner(System.in);
       int n=s.nextInt();   
       int arr[]=new int[n];
-      for(int i=0;i<arr.length;i++)
+      for(int i=0;i<arr.length;i++) 
         {
           arr[i]=s.nextInt(); // Taking input for the size of the array
         }
