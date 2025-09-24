@@ -6,7 +6,7 @@ class A{
     for(int i=0;i<word.length();i++)
       {
         char ch=word.charAt(i); // Get the current character
-        boolean repeat=false; // Assume the character repeats
+        boolean repeat=false; // Assume the character repeats 
         for(int j=i+1;j<word.length();j++) // Loop through remaining characters
           {
             repeat=true; 
