@@ -10,7 +10,7 @@ public static void main(String args[]) {
 			count++; // If it's a square number, increase the count
 			i++; //Increment the i value
 		}
-		System.out.println(count); //Print the result
+		System.out.println(count); //Print the result 
 	}
 
 }
