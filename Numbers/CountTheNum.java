@@ -1,5 +1,5 @@
 //count the numbers in the range 1 to 100
-class demo{
+class demo{ 
   public static void main(String args[])
   {
     int count=0;
