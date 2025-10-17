@@ -10,7 +10,7 @@ class A{
         for(int j=i+1;j<word.length();j++) // Loop through remaining characters
           {
             repeat=true; 
-            break;  // Exit inner loop
+            break;  // Exit inner loop 
           }
       }
     if(repeat==false) // This checks if the character is non-repeating
