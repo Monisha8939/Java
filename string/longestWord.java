@@ -5,7 +5,7 @@ class A{
     Scanner sc=new Scanner(System.in);
     String s=sc.nextLine();
     String s1[]=s.split(" ");  // Split the input string into words
-    String longestword=" ";
+    String longestword=" "; 
     int maxvalue=0;
     for(String s2:s1)
       {
