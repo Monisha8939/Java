@@ -9,7 +9,7 @@ class GCD_LCM {
 		fun(a,b); //Call the function
 	}
 		static void fun(int a,int b) {
-		int num1=a;  // Store the original values
+		int num1=a;  // Store the original values 
 		int num2=b;  // Store the original values
 		while(b!=0) {
 			int temp=b;
