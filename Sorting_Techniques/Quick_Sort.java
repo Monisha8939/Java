@@ -1,6 +1,6 @@
 import java.util.*;
 class Quick
-  {
+  { 
     public static void quickSort(int[] arr,int low,int high)
     {
       if(low<high)
