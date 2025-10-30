@@ -7,4 +7,4 @@ class A{
     DateTimeFormatter three=DateTimeFormatter.ofPattern("yyyy MMM dd ,E HH:mm:ss");
     System.out.println(three.format(two));
   }
-}
+} 
