@@ -4,7 +4,7 @@ class palindrome
     public static void main(String args[])
     {
       Scanner s=new Scanner(System.in);
-      int n=s.nextInt(); //get the input from the user
+      int n=s.nextInt(); //get the input from the user 
       int a=n; // Store the original number
       int ans=0;
       while(n!=0)
