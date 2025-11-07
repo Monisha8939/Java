@@ -7,7 +7,7 @@ class largest
       int a=s.nextInt(); //get the input for first number
       int b=s.nextInt(); //get the input for second number
       int c=s.nextInt(); //get the input for third number
-      // Check which number is the largest
+      // Check which number is the largest 
       if(a>b && a>c)
       {
         System.out.println("a is largest number");
