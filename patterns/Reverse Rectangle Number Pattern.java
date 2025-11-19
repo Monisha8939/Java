@@ -7,7 +7,7 @@ public static void main(String[] args) {
           {
 	            for (int num = n; num >= 1; num--) //Middle loop
                 {
-	                for (int count = 1; count <= row; count++) //Inner loop
+	                for (int count = 1; count <= row; count++) //Inner loop 
                   {
 	                    System.out.print(num + " ");
 	                }
