@@ -9,7 +9,7 @@ public static void main(String[] args) {
                 {
 	                for (int count = 1; count <= row; count++) //Inner loop 
                   {
-	                    System.out.print(num + " ");
+	                    System.out.print(num + " "); 
 	                }
 	            }
 	            System.out.println();
