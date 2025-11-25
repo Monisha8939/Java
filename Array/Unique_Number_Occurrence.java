@@ -7,7 +7,7 @@ class A
       int n=s.nextInt();
       int[] arr=new int[n];
       for(int i=0;i<n;i++){
-        arr[i]=s.nextInt();
+        arr[i]=s.nextInt(); 
     }
       System.out.println(Unique(arr));
     }
