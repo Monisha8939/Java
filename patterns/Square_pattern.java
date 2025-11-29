@@ -2,7 +2,7 @@ import java.util.Scanner;
 class A{
   public static void main(String args[]){
     Scanner s=new Scanner(System.in);
-    int n=s.nextInt(); // Read the size of the square
+    int n=s.nextInt(); // Read the size of the square 
 
     for(int i=1;i<=n;i++)  // Rows
     {
