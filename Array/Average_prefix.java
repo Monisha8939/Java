@@ -10,7 +10,7 @@ class A{
     }
     ArrayList<Integer>res=AvgPrefix(arr,n);
     for(int x:res){
-    System.out.print(x+" ");
+    System.out.print(x+" "); 
     }
   }
   public static ArrayList<Integer> AvgPrefix(int[] arr,int n){
