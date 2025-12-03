@@ -4,7 +4,7 @@ class A{
     Scanner s=new Scanner(System.in);
     int n=s.nextInt(); // Read the size of the square 
 
-    for(int i=1;i<=n;i++)  // Rows
+    for(int i=1;i<=n;i++)  // Rows 
     {
       for(int j=1;j<=n;j++)  // Columns
         {
