@@ -10,7 +10,7 @@ class A{
     int[] result=moveNegative(n, arr);
     for(int i=0;i<n;i++){
     System.out.print(result[i]);
-    }
+    } 
   }
   public static int[] moveNegative(int n,int arr[]){
     int[] temp=new int[n];
