@@ -7,7 +7,7 @@ class A{
     int b=s.nextInt();
     int c=s.nextInt();
     int middle;
-    if((a>=b && a<=c)||(a<=b && a>=c)){  // Check if 'a' is the middle value
+    if((a>=b && a<=c)||(a<=b && a>=c)){  // Check if 'a' is the middle value  
       middle=a;
       System.out.println(middle+" "+"a is the middle number");
     }
