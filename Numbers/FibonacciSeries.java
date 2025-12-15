@@ -15,7 +15,7 @@ class  {
             // Calculating the next Fibonacci number
             next = first + second;
 
-            // Updating the values for the next iteration
+            // Updating the values for the next iteration 
             first = second;
             second = next;
         }
