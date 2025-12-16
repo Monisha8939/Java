@@ -4,7 +4,7 @@ class A{
     Scanner s=new Scanner(System.in);
     int n=s.nextInt();
     int largest=-1; // Variable to store the largest digit
-    int secondlargest=-1; // Variable to store the second largest digit
+    int secondlargest=-1; // Variable to store the second largest digit 
     while(n>0){ // Loop through each digit of the number
       int digit=n%10;  // Extract the last digit
       if(digit>largest){ // If the digit is greater than the current largest
