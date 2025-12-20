@@ -7,7 +7,7 @@ class A
     int upper=0,lower=0,digit=0,special=0;
     for(int i=0;i<sc.length();i++){
       char ch=sc.charAt(i);
-      if(Character.isUpperCase(ch)){ 
+      if(Character.isUpperCase(ch)){  
         upper++;
       }
       else if(Character.isLowerCase(ch)){
