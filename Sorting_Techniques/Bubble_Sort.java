@@ -6,7 +6,7 @@ class bubble_Sort{
     int n=s.nextInt();
     int[] arr=new int[n]; 
     for(int i=0;i<n;i++){ 
-      arr[i]=s.nextInt();
+      arr[i]=s.nextInt(); 
     }
    bubble(arr);
     for(int num:arr){
