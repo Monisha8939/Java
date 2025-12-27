@@ -12,6 +12,6 @@ class Divisible {
     {
           System.out.println("not Divisible by both 3 and 5");
         
-      }
+      } 
   }
 }
