@@ -10,3 +10,4 @@ class demo{
     System.out.println(i);//print the total count
   }
 }
+ 
