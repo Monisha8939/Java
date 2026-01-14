@@ -11,7 +11,7 @@ class moveZeros{
       }
     ismoveingzeros(arr);
     for(int num:arr)
-    {
+    { 
     System.out.println(num+" ");
     }
   }
