@@ -8,7 +8,7 @@ class A{
     int[] fine=new int[n];
     for(int i=0;i<car.length;i++){
       car[i]=s.nextInt();
-    }
+    } 
     for(int j=0;j<fine.length;j++){
       fine[j]=s.nextInt();
     }
