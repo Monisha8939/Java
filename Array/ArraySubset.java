@@ -6,7 +6,7 @@ class arrsubset
     {
       Scanner sc=new Scanner(System.in);
       int n=sc.nextInt(); 
-      int m=sc.nextInt();
+      int m=sc.nextInt(); 
       int a[]=new int[n]; // first array
       int b[]=new int[m]; // second array
       for(int i=0;i<n;i++)
