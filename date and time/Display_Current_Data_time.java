@@ -6,5 +6,5 @@ class A{
     LocalTime time=LocalTime.now();
     System.out.println(date);
     System.out.println(time);
-  }
+  } 
 }
