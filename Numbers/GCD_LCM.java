@@ -5,7 +5,7 @@ class GCD_LCM {
     int a=s.nextInt();
     int b=s.nextInt(); 
 		int num1=a;
-		int num2=b; 
+		int num2=b;  
 		fun(a,b); //Call the function
 	}
 		static void fun(int a,int b) {
