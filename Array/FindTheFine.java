@@ -13,7 +13,7 @@ class A{
       fine[j]=s.nextInt();
     }
     System.out.println(totalfine(date,car,fine));
-	}
+	} 
 	public static int totalfine(int date,int[] car,int[] fine) {
 		long total=0;
 		for(int i=0;i<car.length;i++) {
